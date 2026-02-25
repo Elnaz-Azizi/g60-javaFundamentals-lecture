@@ -1,7 +1,5 @@
 package se.lexicon;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class JavaFundamentals1 {
     public static void main(String[] args) {
 
