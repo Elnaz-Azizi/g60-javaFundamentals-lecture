@@ -198,6 +198,8 @@ public class JavaFundamentals1 {
 
 
 
+
+
     }
     // There are different types of methods we use:
     // Method without parameters and return type
